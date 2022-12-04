@@ -9,10 +9,22 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo/webpack-config": "^0.17.0",
+    "@react-native-menu/menu": "^0.5.3",
+    "@react-navigation/native": "^6.0.13",
+    "@react-navigation/native-stack": "^6.9.1",
+    "axios": "^1.2.0",
     "expo": "~46.0.16",
     "expo-status-bar": "~1.4.0",
+    "firebase": "^9.12.1",
     "react": "18.0.0",
-    "react-native": "0.69.6"
+    "react-dom": "18.0.0",
+    "react-native": "0.69.6",
+    "react-native-material-menu": "^2.0.0",
+    "react-native-paper": "^4.12.5",
+    "react-native-popup-menu": "^0.16.1",
+    "react-native-web": "~0.18.7",
+    "rn-fetch-blob": "^0.12.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
